@@ -39,6 +39,7 @@ spark-delta-minio-sqlserver/
 ├── docker-compose.yml
 ├── pyproject.toml
 └── README.md
+```
 
 ## Assistência por Inteligência Artificial
 
