@@ -81,3 +81,11 @@ Este repositório foi criado **exclusivamente para fins educacionais**.
 O autor **não se responsabiliza** por qualquer uso indevido ou consequências decorrentes da utilização do código.
 
 Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## Links e Referências
+
+- Repositório base (template do professor):  
+  https://github.com/jlsilva01/spark-delta-minio-sqlserver
+
+- Estrutura de banco de dados original (versão anterior, posteriormente aprimorada):  
+  https://github.com/AmonAmarth2003/APACHE-SPARK-COM-DELTA-LAKE-E-APACHE-ICEBERG
