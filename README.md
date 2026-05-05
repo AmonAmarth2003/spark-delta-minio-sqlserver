@@ -11,7 +11,7 @@ O trabalho consiste na extração de dados de um banco de dados relacional (SQL 
 O repositório foi desenvolvido com base no template fornecido pelo professor, sendo a estrutura do banco de dados uma evolução de um projeto anterior, com melhorias no modelo relacional e na organização das entidades.
 
 ## Tecnologias Utilizadas
-- **Apache Spark (PySpark)** – processamento distribuído de dados
+- **Apache Spark (PySpark) 3.5.3** – processamento distribuído de dados
 - **Delta Lake** – camada de armazenamento transacional sobre o data lake
 - **MinIO** – armazenamento de objetos compatível com S3
 - **SQL Server** – banco de dados relacional de origem
@@ -39,3 +39,38 @@ spark-delta-minio-sqlserver/
 ├── docker-compose.yml
 ├── pyproject.toml
 └── README.md
+
+## Assistência por Inteligência Artificial
+
+Este projeto contou com o apoio de ferramentas de Inteligência Artificial
+durante o seu desenvolvimento.
+
+A IA foi utilizada como **ferramenta de apoio**, principalmente para:
+- Esclarecimento de conceitos técnicos
+- Auxílio na escrita e organização de código
+- Revisão de trechos de documentação
+- Sugestões de boas práticas em Apache Spark, Delta Lake e SQL
+
+Todas as decisões de arquitetura, implementação, testes e validações
+foram realizadas pelo autor.
+
+O uso de Inteligência Artificial teve caráter **auxiliar e educacional**,
+não substituindo o entendimento, a autoria e a responsabilidade pelo
+conteúdo apresentado neste repositório.
+
+
+## Licença
+
+Este projeto é distribuído sob a licença **MIT**.
+
+É permitido:
+- Usar, copiar, modificar e distribuir este projeto
+- Utilizar o código para fins acadêmicos, pessoais ou profissionais
+
+Não é permitido:
+- Responsabilizar o autor por qualquer dano, perda de dados ou problema decorrente do uso deste projeto
+
+Este repositório foi criado **exclusivamente para fins educacionais**.  
+O autor **não se responsabiliza** por qualquer uso indevido ou consequências decorrentes da utilização do código.
+
+Consulte o arquivo `LICENSE` para mais detalhes.
