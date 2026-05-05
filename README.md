@@ -35,6 +35,12 @@ spark-delta-minio-sqlserver/
 │   ├── 01_sqlserver_to_minio_csv.ipynb  # Extração: SQL Server → MinIO (CSV)
 │   ├── 02_csv_to_delta.ipynb            # Conversão: CSV → Delta Lake (bronze)
 │   └── 03_dml_delta.ipynb               # DML: INSERT, UPDATE, DELETE + Time Travel
+├── docs/
+│   ├── ai.md
+│   ├── index.md
+│   ├── license.md
+│   ├── pipeline.md
+│   └── projeto.md
 ├── .env.example
 ├── docker-compose.yml
 ├── pyproject.toml
