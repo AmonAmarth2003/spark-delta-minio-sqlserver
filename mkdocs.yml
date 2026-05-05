@@ -1,0 +1,9 @@
+site_name: Spark Delta MinIO SQL Server
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Projeto: projeto.md
+  - Pipeline: pipeline.md
+  - Licença: license.md
+  - Uso de IA: ai.md
