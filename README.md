@@ -12,11 +12,11 @@ O repositório foi desenvolvido com base no template fornecido pelo professor, s
 
 ## Tecnologias Utilizadas
 - **Apache Spark (PySpark) 3.5.3** – processamento distribuído de dados
-- **Delta Lake** – camada de armazenamento transacional sobre o data lake
+- **Delta Lake 3.2.0** – camada de armazenamento transacional sobre o data lake
 - **MinIO** – armazenamento de objetos compatível com S3
 - **SQL Server** – banco de dados relacional de origem
 - **Docker & Docker Compose** – orquestração do ambiente
-- **Python 3.11.11** – linguagem principal do projeto
+- **Python 3.11 com UV** – linguagem principal do projeto
 - **Jupyter Notebook** – execução e documentação das etapas do pipeline
 
 ## Estrutura do Projeto
@@ -74,4 +74,4 @@ Não é permitido:
 Este repositório foi criado **exclusivamente para fins educacionais**.  
 O autor **não se responsabiliza** por qualquer uso indevido ou consequências decorrentes da utilização do código.
 
-Consulte o arquivo `LICENSE` para mais detalhes.
+Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
